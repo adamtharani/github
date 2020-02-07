@@ -1,0 +1,6 @@
+[core]
+	hooksPath = .githooks
+
+[pull]
+	rebase = true
+

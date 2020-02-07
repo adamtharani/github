@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "pulling before pushing"
+git pull -r
